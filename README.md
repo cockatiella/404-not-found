@@ -10,7 +10,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://www.canva.com/design/DAE-FB7f3X8/zp88xT_TLoOCiZFXqgct6g/view?utm_content=DAE-FB7f3X8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### Built With
 
