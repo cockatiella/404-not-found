@@ -2,15 +2,10 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
-
-## Overview
-
-![screenshot](https://www.canva.com/design/DAE-FB7f3X8/QEl9Wx58X8Tc6hJHnwgDvg/edit?utm_content=DAE-FB7f3X8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Built With
 
