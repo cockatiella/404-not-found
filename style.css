@@ -1,0 +1,36 @@
+h3 {
+  font-family: "Inconsolata";
+  font-weight: bold;
+  margin-left: 20px;
+  margin-top: 20px;
+  line-height: 25.18;
+}
+
+h1,
+p,
+button {
+  font-family: "space mono" !important;
+}
+
+button {
+  background-color: #333333;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  text-transform: uppercase !important;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+
+footer {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+@media screen and (min-width: 800px) {
+  footer {
+    position: relative;
+    top: 200px;
+  }
+}
